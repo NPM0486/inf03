@@ -1,0 +1,48 @@
+.baner
+{
+    background-color: #0B873D;
+    color: #fff;
+    font-size: 150%;
+    text-align: center;
+}
+
+.panel-lewy
+{
+    background-color: #8ce1ae;
+    width: 40%;
+    height: 600px;
+    float: left;
+}
+
+.panel-środkowy
+{
+    background-color: #5ccb89;
+    width: 40%;
+    height: 600px;
+    float: left;
+}
+
+.panel-prawy
+{
+    background-color: #1da956;
+    width: 20%;
+    height: 600px;
+    float: left;
+}
+
+a
+{
+    color: brown;
+}
+
+a:visited
+{
+    color: red;
+}
+
+ul
+{
+    margin: 20px;
+    list-style-image: url(./auto.png);
+}
+
